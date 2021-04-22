@@ -51,7 +51,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://SammedSankonatti.github.io/my-portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sammedsankonatti.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://sammed-sankonatti.github.io/my-portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sammedsankonatti.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/sammed-sankonatti-bb7492148/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sammed%20sankonatti-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sammed_sankonatti/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sammed -blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sammed.sankonatti45@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sammed.sankonatti45@gmail.com-blue?style=flat-square&logo=gmail"></a>
