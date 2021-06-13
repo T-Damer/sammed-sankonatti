@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and have understanding on them.
-- 🎓 &nbsp; Currently Pursuing B.Tech In EEE and pretty much Interested In Coading.
+- 🎓 &nbsp; Currently Pursuing B.Tech In EEE and pretty much Interested In Coding.
 - 💼 &nbsp; student of BMSCE
-- 🌱 &nbsp; Learning more about computer Networks, Cloud computing.
+- 🌱 &nbsp; Learning more about computer Networks,OS
 - 🎓 &nbsp; Exploring C++ on Leetcode for competative programming.
 - ✍️ &nbsp; Do Web development with ReactJs.
 
