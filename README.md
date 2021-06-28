@@ -53,7 +53,6 @@ ___
 <br/>
 
 <a href="https://github.com/sammed-sankonatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sammed-sankonatti&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammed-sankonatti&theme=buefy&layout=compact" />
 </a>
 <br>
