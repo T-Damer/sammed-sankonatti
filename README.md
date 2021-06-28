@@ -29,6 +29,7 @@ ___
 ___
 
 <h3 align="center" > 🛠 &nbsp;Tech Stack</h3>
+<p align="center >
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -50,6 +51,7 @@ ___
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+</p> 
 <br/>
 
 <a href="https://github.com/sammed-sankonatti">
